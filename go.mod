@@ -1,4 +1,4 @@
-module nuclei-engine
+module github.com/tongchengbin/nucleiEngine
 
 go 1.20
 
